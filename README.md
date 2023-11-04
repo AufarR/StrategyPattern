@@ -1,11 +1,11 @@
 # StrategyPattern
 Implementasi demo masak mi dengan strategy design pattern dalam bahasa Java
-## Instructions
-Compile the code:
+## Petunjuk penggunaan
+Kompilasi program:
 ```
 javac DemoMasakMi.java
 ```
-Run the program:
+Jalankan program:
 ```
 java DemoMasakMi
 ```
